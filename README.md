@@ -17,12 +17,12 @@ Aplicación web para que autónomos y pequeños negocios generen presupuestos pr
 
 ## 🚀 Demo
 
-🔗 [Ver demo en vivo](https://generador-presupuestos.vercel.app) <!-- Actualiza con tu URL de Vercel -->
+🔗 [Prueba el proyecto](https://generador-presupuesto.vercel.app)
 
 ## 📸 Captura
 
-<!-- Añade una captura de pantalla aquí cuando la tengas -->
-<!-- ![Captura de la app](./screenshot.png) -->
+<!-- ![Captura de la pantalla principal](./screenshot1.png) -->
+<!-- ![Captura del preview del presupuesto](./screenshot2.png) -->
 
 ## 🛠️ Tecnologías
 
@@ -38,7 +38,7 @@ Aplicación web para que autónomos y pequeños negocios generen presupuestos pr
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/nebulosa-b/generador-presupuestos.git
+git clone https://github.com/nebulosa-b/generador-presupuesto.git
 
 # Entra en la carpeta
 cd generador-presupuestos
@@ -52,7 +52,7 @@ npm run dev
 
 La app estará disponible en `http://localhost:5173`
 
-## 📋 Funcionalidades actuales (v1)
+## 📋 Funcionalidades
 
 - [x] Formulario con datos del emisor y cliente
 - [x] Tabla de conceptos dinámica (añadir y eliminar líneas)
@@ -60,18 +60,6 @@ La app estará disponible en `http://localhost:5173`
 - [x] Número de presupuesto manual
 - [x] Fecha automática (editable)
 - [x] Exportación a PDF
-
-## 🗺️ Roadmap
-
-- [ ] Numeración automática de presupuestos
-- [ ] Guardar presupuestos anteriores (localStorage)
-- [ ] Subir logo del negocio
-- [ ] Duplicar presupuesto existente
-- [ ] Múltiples plantillas de diseño
-
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas. Si encuentras un bug o tienes una idea, abre un Issue.
 
 ## 📄 Licencia
 
