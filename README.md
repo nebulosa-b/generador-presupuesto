@@ -20,9 +20,8 @@ Aplicación web para que autónomos y pequeños negocios generen presupuestos pr
 🔗 [Prueba el proyecto](https://generador-presupuesto.vercel.app)
 
 ## 📸 Captura
-
-<!-- ![Captura de la pantalla principal](./images/screenshot1.png) -->
-<!-- ![Captura del preview del presupuesto](./images/screenshot2.png) -->
+![Captura de la pantalla principal](./images/screenshot1.png)
+![Captura del preview del presupuesto](./images/screenshot2.png)
 
 ## 🛠️ Tecnologías
 
